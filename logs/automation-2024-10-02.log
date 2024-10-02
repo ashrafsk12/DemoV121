@@ -1,0 +1,89 @@
+2024-10-02 18:21:06,071 - [TestNG] Time taken by org.testng.reporters.XMLReporter@3ae0b770: 22 ms
+2024-10-02 18:21:06,111 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@7c9bdee9: 20 ms
+2024-10-02 18:21:06,125 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@2cec704c: 14 ms
+2024-10-02 18:21:06,126 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@771cbb1a: 1 ms
+2024-10-02 18:38:48,881 - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\DemoV121\master.xml
+
+2024-10-02 18:38:56,558 - ****Starting TC001_AccountRegistraionTest****
+2024-10-02 18:38:56,559 - Opening HomePage
+2024-10-02 18:38:56,624 - clicking on New Tours
+2024-10-02 18:38:58,566 - clicking on  RegistrationPage
+2024-10-02 18:38:59,411 - Providing Details of Customer
+2024-10-02 18:39:03,750 - Test is passed
+2024-10-02 18:39:03,759 - ****TC001_AccountRegistraionTest is Finished****
+2024-10-02 18:39:12,773 - ****Starting TC002_LoginTest****
+2024-10-02 18:39:12,774 - Opening HomePage
+2024-10-02 18:39:15,076 - clicking on New Tours
+2024-10-02 18:39:15,932 - clicking on SignOn
+2024-10-02 18:39:15,934 - Providing login Credentials
+2024-10-02 18:39:17,659 - Account login is Successful
+2024-10-02 18:39:17,759 - Validating login is Successful or Page is exist or not
+2024-10-02 18:39:17,760 - Page is exist
+2024-10-02 18:39:17,760 - ****Finished TC002_LoginTest****
+2024-10-02 18:40:51,415 - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\DemoV121\master.xml
+
+2024-10-02 18:41:00,566 - ****Starting TC001_AccountRegistraionTest****
+2024-10-02 18:41:00,566 - Opening HomePage
+2024-10-02 18:41:00,640 - clicking on New Tours
+2024-10-02 18:41:02,770 - clicking on  RegistrationPage
+2024-10-02 18:41:03,774 - Providing Details of Customer
+2024-10-02 18:41:07,721 - Test is passed
+2024-10-02 18:41:07,727 - ****TC001_AccountRegistraionTest is Finished****
+2024-10-02 18:41:13,676 - ****Starting TC002_LoginTest****
+2024-10-02 18:41:13,676 - Opening HomePage
+2024-10-02 18:41:15,775 - clicking on New Tours
+2024-10-02 18:41:16,627 - clicking on SignOn
+2024-10-02 18:41:16,630 - Providing login Credentials
+2024-10-02 18:41:18,350 - Account login is Successful
+2024-10-02 18:41:18,425 - Validating login is Successful or Page is exist or not
+2024-10-02 18:41:18,425 - Page is exist
+2024-10-02 18:41:18,426 - ****Finished TC002_LoginTest****
+2024-10-02 18:44:09,044 - ****Starting TC001_AccountRegistraionTest****
+2024-10-02 18:44:09,056 - Opening HomePage
+2024-10-02 18:44:09,145 - clicking on New Tours
+2024-10-02 18:44:11,202 - clicking on  RegistrationPage
+2024-10-02 18:44:12,153 - Providing Details of Customer
+2024-10-02 18:44:16,126 - Test is passed
+2024-10-02 18:44:16,132 - ****TC001_AccountRegistraionTest is Finished****
+2024-10-02 18:44:22,228 - ****Starting TC002_LoginTest****
+2024-10-02 18:44:22,228 - Opening HomePage
+2024-10-02 18:44:24,196 - clicking on New Tours
+2024-10-02 18:44:25,015 - clicking on SignOn
+2024-10-02 18:44:25,033 - Providing login Credentials
+2024-10-02 18:44:26,747 - Account login is Successful
+2024-10-02 18:44:26,845 - Validating login is Successful or Page is exist or not
+2024-10-02 18:44:26,845 - Page is exist
+2024-10-02 18:44:26,846 - ****Finished TC002_LoginTest****
+2024-10-02 19:02:58,549 - ****Starting TC001_AccountRegistraionTest****
+2024-10-02 19:02:58,561 - Opening HomePage
+2024-10-02 19:02:58,634 - clicking on New Tours
+2024-10-02 19:03:00,767 - clicking on  RegistrationPage
+2024-10-02 19:03:01,670 - Providing Details of Customer
+2024-10-02 19:03:06,355 - Test is passed
+2024-10-02 19:03:06,362 - ****TC001_AccountRegistraionTest is Finished****
+2024-10-02 19:03:13,212 - ****Starting TC002_LoginTest****
+2024-10-02 19:03:13,213 - Opening HomePage
+2024-10-02 19:03:15,368 - clicking on New Tours
+2024-10-02 19:03:16,338 - clicking on SignOn
+2024-10-02 19:03:16,342 - Providing login Credentials
+2024-10-02 19:03:18,263 - Account login is Successful
+2024-10-02 19:03:18,369 - Validating login is Successful or Page is exist or not
+2024-10-02 19:03:18,369 - Page is exist
+2024-10-02 19:03:18,370 - ****Finished TC002_LoginTest****
+2024-10-02 19:11:12,509 - ****Starting TC001_AccountRegistraionTest****
+2024-10-02 19:11:12,520 - Opening HomePage
+2024-10-02 19:11:12,573 - clicking on New Tours
+2024-10-02 19:11:14,580 - clicking on  RegistrationPage
+2024-10-02 19:11:15,423 - Providing Details of Customer
+2024-10-02 19:11:19,181 - Test is passed
+2024-10-02 19:11:19,188 - ****TC001_AccountRegistraionTest is Finished****
+2024-10-02 19:11:25,209 - ****Starting TC002_LoginTest****
+2024-10-02 19:11:25,210 - Opening HomePage
+2024-10-02 19:11:27,401 - clicking on New Tours
+2024-10-02 19:11:28,197 - clicking on SignOn
+2024-10-02 19:11:28,200 - Providing login Credentials
+2024-10-02 19:11:29,222 - Account login is Successful
+2024-10-02 19:11:29,964 - Validating login is Successful or Page is exist or not
+2024-10-02 19:11:29,964 - Page is exist
