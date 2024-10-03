@@ -14,10 +14,16 @@ public class DemoHomePage extends DemoBasePage {
 	@FindBy(xpath="//a[normalize-space()='New Tours']")
 	WebElement newtours;
 	
+	@FindBy(xpath="//a[normalize-space()='Bank Project']")
+	WebElement bank_Project;
+	
 	public void clickonNewTours()
 	{
 		newtours.click();
 	}
 	
-	
+	public void clickonBankProject()
+	{
+		bank_Project.click();;
+	}
 }

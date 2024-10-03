@@ -28,8 +28,8 @@ public class TC002_LoginTest extends DemoBaseClass {
 		
 		loger.info("Providing login Credentials");
 		
-		dlp.enterUserName(p.getProperty("username"));
-		dlp.enterPassword(p.getProperty("password"));
+		dlp.enterUserName(p.getProperty("username2"));
+		dlp.enterPassword(p.getProperty("password2"));
 		dlp.clickOnSubmit();
 		loger.info("Account login is Successful");
 		DemoMyAccount dma= new DemoMyAccount(driver);

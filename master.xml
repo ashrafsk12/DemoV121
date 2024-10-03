@@ -8,8 +8,11 @@
 	  <parameter name="os" value="Windows"/>
 	  <parameter name="browser" value="chrome"/>
     <classes>
-	  <class name="demotestCases.TC001_AccountRegistraionTest"/>
-      <class name="demotestCases.TC002_LoginTest"/>
+	 <!--<class name="demotestCases.TC001_AccountRegistraionTest"/>-->
+    <!--<class name="demotestCases.TC002_LoginTest"/>-->
+      <!--<class name="demotestCases.TC003_LoginBankTest"/>-->
+       <class name="demotestCases.TC004_RegistrationBankCustomerTest"/>
+      
     </classes>
   </test> <!-- chromeTest -->
 </suite> <!-- mastersuite -->

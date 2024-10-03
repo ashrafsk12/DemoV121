@@ -1,0 +1,79 @@
+2024-10-02 19:11:29,964 - ****Finished TC002_LoginTest****
+2024-10-03 14:15:06,697 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 3 ms.
+2024-10-03 14:15:06,810 - [Utils] MethodGroupsHelper.sortMethods() took 5 ms.
+2024-10-03 14:15:06,819 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-03 14:15:06,820 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-03 14:15:06,822 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-03 14:15:06,823 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-03 14:15:06,825 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-03 14:15:06,826 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-03 14:15:06,837 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 6 ms.
+2024-10-03 14:15:06,867 - [Utils] MethodGroupsHelper.sortMethods() took 30 ms.
+2024-10-03 14:15:06,873 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-03 14:15:06,874 - [Utils] MethodGroupsHelper.sortMethods() took 1 ms.
+2024-10-03 14:15:06,877 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-03 14:15:06,877 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-03 14:15:06,879 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-03 14:15:06,879 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-03 14:15:06,886 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-03 14:15:06,887 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-03 14:15:06,888 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-03 14:15:06,889 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-03 14:15:06,899 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-03 14:15:06,899 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-03 14:15:06,900 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-03 14:15:06,900 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-03 14:15:06,904 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-03 14:15:06,905 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-03 14:15:06,909 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-03 14:15:06,909 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-03 14:15:06,910 - [Utils] MethodGroupsHelper.collectMethodsByGroup() took 0 ms.
+2024-10-03 14:15:06,910 - [Utils] MethodGroupsHelper.sortMethods() took 0 ms.
+2024-10-03 14:15:06,937 - [TestNG] Running:
+  C:\Users\ADMIN\AppData\Local\Temp\testng-eclipse-330786474\testng-customsuite.xml
+
+2024-10-03 14:15:07,008 - [Utils] DynamicGraphHelper.createDynamicGraph() took 11 ms.
+2024-10-03 14:15:07,891 - [TestNG] Time taken by org.testng.reporters.jq.Main@41394595: 297 ms
+2024-10-03 14:15:07,931 - [TestNG] Time taken by org.testng.reporters.FailedReporter@2ad3a1bb: 39 ms
+2024-10-03 14:15:07,957 - [TestNG] Time taken by org.testng.reporters.XMLReporter@5a4bef8: 24 ms
+2024-10-03 14:15:07,976 - [TestNG] Time taken by org.testng.reporters.EmailableReporter2@69adf72c: 18 ms
+2024-10-03 14:15:07,990 - [TestNG] Time taken by org.testng.reporters.JUnitReportReporter@30c31dd7: 14 ms
+2024-10-03 14:15:07,991 - [TestNG] Time taken by org.testng.internal.ExitCodeListener@499b2a5c: 0 ms
+2024-10-03 14:19:55,521 - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\DemoV121\master.xml
+
+2024-10-03 14:20:46,600 - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\DemoV121\master.xml
+
+2024-10-03 14:23:42,679 - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\DemoV121\master.xml
+
+2024-10-03 14:38:42,565 - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\DemoV121\master.xml
+
+2024-10-03 14:38:50,025 - ****Starting TC003_LoginBankTest****
+2024-10-03 14:38:50,026 - Open Demo99 URL
+2024-10-03 14:38:50,078 - Clicking on BankProject
+2024-10-03 14:38:51,395 - Providing Login Credentials
+2024-10-03 14:38:53,082 - Test case is Passed
+2024-10-03 14:38:53,101 - ****Finished TC003_LoginBankTest****
+2024-10-03 14:39:57,364 - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\DemoV121\master.xml
+
+2024-10-03 14:40:06,407 - ****Starting TC003_LoginBankTest****
+2024-10-03 14:40:06,408 - Open Demo99 URL
+2024-10-03 14:40:06,471 - Clicking on BankProject
+2024-10-03 14:40:07,837 - Providing Login Credentials
+2024-10-03 14:40:09,601 - Test case is Passed
+2024-10-03 14:44:43,688 - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\DemoV121\master.xml
+
+2024-10-03 14:44:51,343 - ****Starting TC003_LoginBankTest****
+2024-10-03 14:44:51,344 - Open Demo99 URL
+2024-10-03 14:44:51,392 - Clicking on BankProject
+2024-10-03 14:44:52,892 - Providing Login Credentials
+2024-10-03 14:44:54,630 - ****Finished TC003_LoginBankTest****
+2024-10-03 14:46:16,367 - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\DemoV121\master.xml
+
+2024-10-03 14:46:23,756 - ****Starting TC003_LoginBankTest****

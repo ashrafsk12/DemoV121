@@ -1,1 +1,89 @@
-2024-10-02 19:11:29,964 - ****Finished TC002_LoginTest****
+2024-10-03 14:46:23,756 - Open Demo99 URL
+2024-10-03 14:46:23,844 - Clicking on BankProject
+2024-10-03 14:46:25,077 - Providing Login Credentials
+2024-10-03 14:46:26,900 - Test case is Failed
+2024-10-03 14:47:47,676 - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\DemoV121\master.xml
+
+2024-10-03 14:47:55,411 - ****Starting TC003_LoginBankTest****
+2024-10-03 14:47:55,411 - Open Demo99 URL
+2024-10-03 14:47:55,472 - Clicking on BankProject
+2024-10-03 14:47:57,039 - Providing Login Credentials
+2024-10-03 14:47:58,830 - Test case is Passed
+2024-10-03 14:47:58,845 - ****Finished TC003_LoginBankTest****
+2024-10-03 16:39:36,253 - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\DemoV121\master.xml
+
+2024-10-03 16:42:22,275 - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\DemoV121\master.xml
+
+2024-10-03 16:43:34,183 - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\DemoV121\master.xml
+
+2024-10-03 16:43:42,434 - ****Started TCC004_RegistrationBankCustomerTest****
+2024-10-03 16:43:42,435 - Open Demo99 URL
+2024-10-03 16:43:42,489 - Clicking on BankProject
+2024-10-03 16:43:43,787 - Providing Login Credentials
+2024-10-03 16:44:37,954 - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\DemoV121\master.xml
+
+2024-10-03 16:44:45,670 - ****Started TCC004_RegistrationBankCustomerTest****
+2024-10-03 16:44:45,671 - Open Demo99 URL
+2024-10-03 16:44:45,724 - Clicking on BankProject
+2024-10-03 16:44:47,103 - Providing Login Credentials
+2024-10-03 16:46:16,717 - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\DemoV121\master.xml
+
+2024-10-03 16:46:25,419 - ****Started TCC004_RegistrationBankCustomerTest****
+2024-10-03 16:46:25,419 - Open Demo99 URL
+2024-10-03 16:46:25,478 - Clicking on BankProject
+2024-10-03 16:46:26,772 - Providing Login Credentials
+2024-10-03 17:09:45,372 - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\DemoV121\master.xml
+
+2024-10-03 17:09:53,098 - ****Started TCC004_RegistrationBankCustomerTest****
+2024-10-03 17:09:53,098 - Open Demo99 URL
+2024-10-03 17:09:53,172 - Clicking on BankProject
+2024-10-03 17:09:54,566 - Providing Login Credentials
+2024-10-03 17:17:17,998 - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\DemoV121\master.xml
+
+2024-10-03 17:17:26,598 - ****Started TCC004_RegistrationBankCustomerTest****
+2024-10-03 17:17:26,599 - Open Demo99 URL
+2024-10-03 17:17:26,685 - Clicking on BankProject
+2024-10-03 17:17:28,064 - Providing Login Credentials
+2024-10-03 17:17:59,162 - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\DemoV121\master.xml
+
+2024-10-03 17:18:07,553 - ****Started TCC004_RegistrationBankCustomerTest****
+2024-10-03 17:18:07,554 - Open Demo99 URL
+2024-10-03 17:18:07,617 - Clicking on BankProject
+2024-10-03 17:18:09,007 - Providing Login Credentials
+2024-10-03 17:19:00,803 - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\DemoV121\master.xml
+
+2024-10-03 17:19:09,076 - ****Started TCC004_RegistrationBankCustomerTest****
+2024-10-03 17:19:09,077 - Open Demo99 URL
+2024-10-03 17:19:09,145 - Clicking on BankProject
+2024-10-03 17:19:10,456 - Providing Login Credentials
+2024-10-03 17:23:00,252 - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\DemoV121\master.xml
+
+2024-10-03 17:23:09,094 - ****Started TCC004_RegistrationBankCustomerTest****
+2024-10-03 17:23:09,095 - Open Demo99 URL
+2024-10-03 17:23:09,149 - Clicking on BankProject
+2024-10-03 17:23:10,700 - Providing Login Credentials
+2024-10-03 17:24:14,091 - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\DemoV121\master.xml
+
+2024-10-03 17:24:22,723 - ****Started TCC004_RegistrationBankCustomerTest****
+2024-10-03 17:24:22,724 - Open Demo99 URL
+2024-10-03 17:24:22,770 - Clicking on BankProject
+2024-10-03 17:24:24,036 - Providing Login Credentials
+2024-10-03 17:29:50,558 - [TestNG] Running:
+  C:\Users\ADMIN\eclipse-workspace\DemoV121\master.xml
+
+2024-10-03 17:29:58,629 - ****Started TCC004_RegistrationBankCustomerTest****
+2024-10-03 17:29:58,629 - Open Demo99 URL
+2024-10-03 17:29:58,699 - Clicking on BankProject
+2024-10-03 17:30:00,096 - Providing Login Credentials

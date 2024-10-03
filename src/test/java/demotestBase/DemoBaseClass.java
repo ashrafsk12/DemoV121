@@ -57,8 +57,7 @@ public class DemoBaseClass {
 		
 		driver.manage().window().maximize();	
 	}
-	
-	
+
 	@AfterClass
 	public void tearDown() 
 	{
